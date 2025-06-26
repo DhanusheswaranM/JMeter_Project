@@ -12386,9 +12386,9 @@ Match[1][1]=91f88730e4740d96461d3120689b3c.PcE0G7-klGz8n6jB3go12tpPLwhzYyrTh2o7f
             <hashTree/>
           </hashTree>
         </hashTree>
-        <OnceOnlyController guiclass="OnceOnlyControllerGui" testclass="OnceOnlyController" testname="Once Only Controller" enabled="true"/>
+        <OnceOnlyController guiclass="OnceOnlyControllerGui" testclass="OnceOnlyController" testname="Once Only Controller"/>
         <hashTree>
-          <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Module Controller for Launch and Login" enabled="false">
+          <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Module Controller for Launch and Login">
             <collectionProp name="ModuleController.node_path">
               <stringProp name="764597751">Test Plan</stringProp>
               <stringProp name="764597751">Test Plan</stringProp>
